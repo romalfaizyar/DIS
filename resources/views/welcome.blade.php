@@ -81,7 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel DIS
+                    sdfsdfsdjfdjfsjdf
+                    sdflsdjfldjfkd
+                    fsdflksdfjkld
                 </div>
 
                 <div class="links">
