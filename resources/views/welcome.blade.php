@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   this is project for DIS Document Information sysytem 
+                   this is project for DIS
                 </div>
 
                 <div class="links">
