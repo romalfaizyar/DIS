@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel From Hafiz Branch
+                    Laravel From Hafiz Branch (Now From Nickzad)
                 </div>
 
                 <div class="links">
